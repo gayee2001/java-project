@@ -6,3 +6,5 @@ Service class - StudentService
 Main - Controller
 Database - DBconnect
 config - db.prop
+MySQL-Config file
+database-MySqL
